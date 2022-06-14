@@ -3,9 +3,9 @@ import "./projects.css"
 
 const Projects = () => {
     return (
-        <div>
-            About
-        </div>
+        <section id="projects">
+            Projects
+        </section>
     )
 }
 export default Projects
