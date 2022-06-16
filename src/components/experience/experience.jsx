@@ -14,13 +14,24 @@ const Experience = () => {
                     <h3>Soft Skills</h3>
                     <div className="experience__content">
                         <article className="experience__details">
-                            <h4 className="text-light">Dynamic Thinking</h4>
+                            <h4>Dynamic Thinking</h4>
                         </article>
                         <article className="experience__details">
                             <h4>Team Player</h4>
                         </article>
                         <article className="experience__details">
                             <h4>Consistent</h4>
+                        </article>
+                        <article className="experience__details">
+                            <div className="hover__info">
+                                <h4>Languages</h4>
+                            </div>
+                            <div className="hide">
+                                <h5>English: C2</h5>
+                                <h5>German: B1</h5>
+                                <h5>Bengali: Native</h5>
+                            </div>
+
                         </article>
                     </div>
                 </div>
